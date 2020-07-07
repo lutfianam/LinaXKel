@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "LinaXKel",
+    "app": "informasi kelulusan",
+    "versi": "1.0",
+    "tribute": "Aplikasi ini dikhususkan hanya untuk sekolah saja ( open source only for school )",
+    "rilis": "-",
+    "pembaruan": "-",
+    "coder": "Lutfi Anam",
+    "developer": "LinaXDev",
+    "email": "lutfianamart@gmail.com",
+    "alamat": "Temanggung",
+    "web": "http://linaxdev.blogspot.com/",
+    "fanspage": "LinaXDev",
+    "github": "https://github.com/lutfianam/",
+    "fitur": ["-", "-"],
+    "notif": {
+      "show": "ya",
+      "pesan": "xxx"
+    }
+  }
+]
