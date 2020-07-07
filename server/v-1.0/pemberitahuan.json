@@ -1,0 +1,10 @@
+{
+    "pemberitahuan": [
+        {
+            "warna": "success",
+            "pesan": "Selamat datang di aplikasi LinaXKel",
+            "tanggal": "10/04/2003",
+            "icon": "fas fa-code"
+        }
+    ]
+}
