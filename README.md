@@ -1,3 +1,9 @@
+<h1 align="center">LinaXKel - Kelulusan</h1>
+
+<p align="center">
+LinaXKel merupakan aplikasi kelulusan yang dibuat menggunakan php7 dan mysqli, free for school!
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/lutfianam/LinaXKel/master/tampilan-depan.png" alt="Tampilan depan"/>
 </p>
