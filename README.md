@@ -1,16 +1,5 @@
-# LinaXKel
-LinaXKel merupakan aplikasi sistem informasi kelulusan, sumber terbuka hanya untuk sekolahan.
-
-Silahkan chat jika mau minta aplikasi kelulusan ( https://instagram.com/lutf1anam )
-
-<h1 align="center">LinaXKel- Kelulusan</h1>
-
 <p align="center">
-LinaXKel merupakan aplikasi kelulusan yang di peruntukkan khusus sekolahan saja
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46257169/85205857-2e0f6700-b348-11ea-9d71-0d19e288c48e.png" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/lutfianam/LinaXKel/master/tampilan-depan.png" alt="Tampilan depan"/>
 </p>
 
 <span align="center">
@@ -32,7 +21,7 @@ LinaXKel merupakan aplikasi kelulusan yang di peruntukkan khusus sekolahan saja
 
 ## Bagaimana cara mendapatkan source code
 kamu bisa mengirim email permintaan ke :
-| Email  | lutfianamart@gmail.com |
+Email  : `lutfianamart@gmail.com`
 
 > wajib menggunakan email sekolah
 
