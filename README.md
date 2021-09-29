@@ -8,12 +8,6 @@ LinaXKel merupakan aplikasi kelulusan yang dibuat menggunakan php7 dan mysqli, f
   <img src="https://raw.githubusercontent.com/lutfianam/LinaXKel/master/tampilan-depan.png" alt="Tampilan depan"/>
 </p>
 
-<span align="center">
-
-[![](https://img.shields.io/github/issues/lutfianam/LinaXKel?style=flat-square)](https://img.shields.io/github/issues/lutfianam/LinaXKel?style=flat-square) ![](https://img.shields.io/github/stars/lutfianam/LinaXKel?style=flat-square)
-![](https://img.shields.io/github/forks/lutfianam/LinaXKel?style=flat-square) ![](https://img.shields.io/github/license/lutfianam/LinaXKel?style=flat-square)[![HitCount](http://hits.dwyl.com/lutfianam/https://githubcom/lutfianam/LinaXKel.svg)](http://hits.dwyl.com/syauqizaidan/https://githubcom/lutfianam/LinaXKel)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-</span>
 
 <p align="center">
   <a href="https://facebook.com/lutf1anam">Facebook</a>
